@@ -1,0 +1,18 @@
+To start the program double "Start" exe in this same directory. (If this fails for any reason, the .exe file to open is located in the "Debug" folder of the project files). 
+
+When first launching the program you will be presented with a menu in the console window, which looks like this:
+		   -------------- MENU  --------------  
+		   Please select one of the following options:   
+		   1. Draw a line  
+		   2. Draw a square  
+		   3. Draw a triangle  
+		   4. Draw a circle  
+		   5. Draw a sphere using Raytracing   
+		   6. Demo mode (all shapes drawn one after another)   
+		   7. Exit   
+
+Type the number of the option you wish to select and confirm with enter. For example to draw a line type in 1 and press enter.
+Once a shape has finished drawing, you will be able to select another using the same method.
+Note:
+Option 6 will draw all the shapes one after another (with a small delay between them).
+Option 7 will exit the program.
